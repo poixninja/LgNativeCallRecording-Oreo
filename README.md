@@ -26,8 +26,3 @@ Replaces the stock LGInCallUI.apk with [this]( https://forum.xda-developers.com/
 * [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk)
 * [Manual zip download](https://drive.google.com/file/d/1Ss4lAdR4mbOwqOvQQV5qyRBoP40GfCk8/view?usp=drivesdk)
 [Original XDA thread](https://forum.xda-developers.com/lg-v30/themes/enable-native-call-recording-lg-v30-t3869260)
-
-## Changelog
-
-#### version 1
-* Initial Release
